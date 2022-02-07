@@ -78,16 +78,14 @@
         background-color: #FCFCFC;
     }
     .small-font {
-        font-size: 15px;
+        font-size: 12px;
     }
     .txt {
         color: #636470;
         font-size: 14px;
         font-weight: 500;
     }
-    i.bi.bi-info-circle-fill {
-        margin-left: 65%;
-    }
+    
     .btn-success {
         color: #BFBFCD;
         background-color: #ffffff;
